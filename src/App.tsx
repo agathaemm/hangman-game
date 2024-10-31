@@ -2,8 +2,6 @@ import { useEffect, useState } from 'react';
 
 import { Hangman } from './components';
 
-import './App.css';
-
 import { ATTEMPTS } from './constants';
 
 const words = ['REACT', 'JAVASCRIPT', 'FORCA', 'PROGRAMA'];
